@@ -8,7 +8,7 @@ export default function Home() {
           Tune Admin
         </h1>
         <p className="mt-6 text-xl leading-8 text-gray-600">
-          Welcome to your administration dashboard.
+          Welcome to your Admin dashboard.
         </p>
         <div className="mt-12 flex items-center justify-center gap-x-6">
           <Link
