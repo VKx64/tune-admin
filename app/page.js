@@ -2,13 +2,13 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-gray-50">
+    <main className="flex flex-col items-center justify-center p-24">
       <div className="text-center">
         <h1 className="text-5xl font-extrabold tracking-tight text-gray-900 sm:text-7xl">
           Tune Admin
         </h1>
         <p className="mt-6 text-xl leading-8 text-gray-600">
-          Welcome to your Admin Assboard. Test CI/CD lol no Deploy oten ni billy
+          Welcome to your Admin Dashboard
         </p>
         <div className="mt-12 flex items-center justify-center gap-x-6">
           <Link
